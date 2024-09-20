@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\intis\Documents\ConFPS\main.cpp(168,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\intis\Documents\ConFPS\main.cpp(177,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConFPS.vcxproj -> C:\Users\intis\Documents\ConFPS\x64\Debug\ConFPS.exe
